@@ -1,0 +1,41 @@
+
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.backgroundimg {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.logo {
+  position: absolute;
+  width: 30%;
+  top: 10%;
+  left: 35%;
+}
+
+
+.button {
+	position: absolute;
+	top: 50%;
+	left: 45%;
+    background-color: white; 
+    border: none;
+    color: #d83c7d;
+    font-family: 'Open Sans', sans-serif;
+    width: 10%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
